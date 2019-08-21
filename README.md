@@ -6,7 +6,7 @@ Analyze the clusters and common properties found for each cluster with dataset a
 
 # CONCLUSION:
 
-+ We can further improve the clustering.
+### We can further improve the clustering.
 
 + Choosing optimal value of K(number of clusters).
 
